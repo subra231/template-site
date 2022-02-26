@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: subra231.github.io/template-site/sitemap.xml
