@@ -5,4 +5,4 @@ template = "index.html"
 
 # Hi world!
 test
-![alt text](/images/jokercat.jpg)
+![alt text](/static/images/jokercat.jpg)
